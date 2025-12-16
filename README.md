@@ -237,9 +237,7 @@ MIT License - Free to use for learning and portfolio purposes
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- GitHub: Aman Sharma
 
 ---
 
